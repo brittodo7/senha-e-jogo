@@ -1,5 +1,5 @@
 # senha-e-jogo
-codigo de senha com joguinho dentro
+# codigo de senha com joguinho dentro
 def jogo ():
     import random
     var = random.randint(1,10)
